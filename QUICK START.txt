@@ -1,0 +1,29 @@
+═══════════════════════════════════════
+         QUICK START GUIDE
+═══════════════════════════════════════
+
+STEP 1: OPEN THE APP
+Double-click "CoralDetector.exe"
+
+STEP 2: SELECT PHOTO
+Click "Select Coral Image" button
+Find your coral photo
+Click "Open"
+
+STEP 3: SEE RESULT
+
+✅ HEALTHY CORAL = No bleaching
+⚠️ BLEACHED DETECTED = Bleaching found
+
+STEP 4: CHECK CONFIDENCE
+90-100% = Very sure
+70-89% = Moderately sure
+Below 70% = Try clearer photo
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TIP: For best results, use clear, well-lit photos
+
+Need details? Read "User Guide.pdf"
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
